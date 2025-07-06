@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(149, 149, 226);
+}
+
+.central {text-align: center;}
+h1{color: rgb(48, 2, 91); font-size: 50px;}
+
+p{text-align: justify; font-size: 30px;}
+
+.espaco {
+    margin-bottom: 20px;
+}
+
+.borda-arredondada {
+    border-radius: 20px; 
+}
+
+.tabela {
+    border: 40px solid rgb(241, 57, 118);
+    background-color: rgb(230, 98, 168);
+}
